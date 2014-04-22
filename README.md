@@ -9,3 +9,7 @@ SDLTutorials.com
 You are free to use this code and any included files in your projects (commercial and non-commercial), as long as you credit SDLTutorials.com and the author.
 
 With my C# code you can do what you want, just respect original tutorial license.
+
+##Requirements
+- SDL2-CS
+- MonoDevelop
